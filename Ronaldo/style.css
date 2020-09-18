@@ -1,0 +1,13 @@
+body {
+  background-color: blueviolet
+}
+table, th, td {
+  border: 1px solid black;
+}
+title,h1,p {
+  text-align: center;
+  color: red;
+}
+* {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
